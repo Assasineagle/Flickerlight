@@ -1,8 +1,6 @@
-# Video_Player - A Video Platform Backend
+Flickerlight - Video Platform Backend
 
-video_player is a robust backend service for a modern video-sharing platform, inspired by services like YouTube and Netflix. It provides a complete set of features for user authentication, video content management, and data aggregation, built with a focus on security, scalability, and performance.
-
-This project demonstrates a deep understanding of backend development principles, including secure API design, database management, and cloud integration.
+A robust and scalable backend service for a modern video-sharing platform, inspired by the intimate experience of classic cinema. Engineered to provide a complete ecosystem for secure user authentication, content management, and dynamic data aggregation.
 
 ---
 
